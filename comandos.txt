@@ -1,0 +1,86 @@
+/roll ou /r -> ROLADOR DE DADO
+  /r NUMERO -> ROLAR ATÉ NÚMERO
+  /r v NUMERO -> ROLAR ATÉ NÚMERO COM VANTAGEM  
+  /r van NUMERO -> ROLAR ATÉ NÚMERO COM VANTAGEM
+  /r d NUMERO -> ROLAR ATÉ NÚMERO COM DESVANTAGEM  
+  /r des NUMERO -> ROLAR ATÉ NÚMERO COM DESVANTAGEM  
+  /r m NUMERO -> ROLAR 2D6  NÚMERO
+  /r move NUMERO -> ROLAR 2D6  NÚMERO
+  /r mv NUMERO -> ROLAR 2D6  NÚMERO COM VANTAGEM
+  /r movevan NUMERO -> ROLAR 2D6  NÚMERO COM VANTAGEM
+  /r md NUMERO -> ROLAR 2D6  NÚMERO COM DESVANTAGEM
+  /r movedes NUMERO -> ROLAR 2D6  NÚMERO COM DESVANTAGEM
+
+/oraculo ou /ora ou /o -> ORÁCULOS
+  /o -> ORÁCULO MUNE
+  /o bin -> ORÁCULO BINÁRIO SIM/NÃO
+  /o binario -> ORÁCULO BINÁRIO SIM/NÃO
+  /o b -> ORÁCULO BINÁRIO SIM/NÃO
+  /o pro -> ORÁCULO MUNE PROVÁVEL
+  /o p -> ORÁCULO MUNE PROVÁVEL
+  /o inpro -> ORÁCULO MUNE INPROVÁVEL
+  /o i -> ORÁCULO MUNE INPROVÁVEL
+  /o inp -> ORÁCULO MUNE INPROVÁVEL
+  /o % -> ORÁCULO PROBABILIDADE 
+  /o per -> ORÁCULO PROBABILIDADE 
+  /o percent -> ORÁCULO PROBABILIDADE 
+  /o percen -> ORÁCULO PROBABILIDADE 
+
+/h ou /help -> AJUDA
+
+/nome -> GERAR NOME
+
+/clima -> GERAR CLIMA
+
+/int ou /intervencao ou /in -> GERAR INTERVENÇÃO
+
+/acao -> GERAR AÇÃO
+
+/combate -> GERAR AÇÃO DE COMBATE
+
+/plot -> GERAR REVIRAVOLTA NA HISTÓRIA
+
+/tema -> GERAR TEMA
+
+/colateral -> GERADOR DE EFEITO COLATERAL MÁGICO
+
+/lugar ou /local -> GERADOR DE LOCAL
+  /local -> GERAR LOCAL
+  /local nome -> GERAR NOME DE LOCAL
+  /local desc -> GERAR LOCAL DE INTERESSE
+
+/regiao -> GERADOR DE REGIÃO
+
+/cons ou /construcao ou /estrutura  -> GERADOR CONSTRUÇÃO
+
+/povoado -> GERADOR DE POVOADO
+  /povoado -> GERADOR DE POVOADO
+  /provoado pro -> GERADOR DE PROBLEMA DE POVOADO
+  /provoado problema -> GERADOR DE PROBLEMA DE POVOADO
+  /provoado espec -> GERADOR DE ESPECIALIDADE DE POVOADO
+  /provoado especialidade -> GERADOR DE ESPECIALIDADE DE POVOADO
+
+/personagem ou /person ou /npc ou /pessoa -> GERADOR DE NPC
+  /npc -> GERADOR DE NPC
+  /npc n -> GERADOR DE NOME PARA NPC
+  /npc nome -> GERADOR DE NOME PARA NPC
+  /npc papel -> GERADOR DE FUNÇÃO PARA NPC
+  /npc desc -> GERADOR DE DESCRIÇÃO PARA NPC
+  /npc d -> GERADOR DE DESCRIÇÃO PARA NPC
+  /npc descricao -> GERADOR DE DESCRIÇÃO PARA NPC
+  /npc profissao -> GERADOR DE PROFISSÃO PARA NPC
+  /npc prof -> GERADOR DE PROFISSÃO PARA NPC
+  /npc papel -> GERADOR DE PROFISSÃO PARA NPC
+  /npc mot -> GERADOR DE MOTIVAÇÃO PARA NPC
+  /npc motivacao -> GERADOR DE MOTIVAÇÃO PARA NPC
+  /npc comp -> comportamento
+  /npc c -> comportamento
+
+/obj ou /objeto ou /item -> GERADOR DE ITEM
+  /obj -> GERADOR DE ITEM
+  /obj desc -> GERADOR DE DESCRIÇÃO PARA ITEM
+  /obj descricao -> GERADOR DE DESCRIÇÃO PARA ITEM
+
+/tesouro -> GERADOR DE TESOURO
+
+/icon ou /icone ou /imagem ou /img -> GERADOR DE IMAGEM
